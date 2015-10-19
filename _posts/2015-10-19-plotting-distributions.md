@@ -44,7 +44,7 @@ plt.hist(data);
 ```
 
 
-![png](plotting_distributions_files/plotting_distributions_7_0.png)
+![png](/images/plotting_distributions_files/plotting_distributions_7_0.png)
 
 
 By default, `hist` separates the data into 10 bins of equal widths and plots the number of observations in each bin. Thus, the main parameter is the number of bins, which we can change.
