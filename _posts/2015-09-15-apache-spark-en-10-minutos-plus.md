@@ -2,8 +2,10 @@
 layout:     post
 title:      Apache Spark en 10 minutos 
 date:       2015-09-15 11:21:29
-summary:    Prueba Apache Spark mediante de una máquina virtual en 10 minutos.
-categories: jekyll pixyll
+summary:    Prueba Apache Spark mediante de una máquina virtual en 10 minutos
+categories: BigData
+permalink:  /Apache-Spark-10-minutos/
+minutes:    10
 ---
 
 Hola, os dejo una guía paso a paso para poder probar [Apache Spark](http://spark.apache.org/) a partir de la instalación de una máquina virtual en vuestro equipo. Los requisitos mínimos son los siguientes:
