@@ -8,8 +8,8 @@ url:         "https://dvillaj.github.io"
 date_format: "%-d-%b-%Y"
 
 # Google services
-google_analytics: 
-google_verification: UA-62530238-3
+google_analytics: UA-62530238-3
+google_verification: 
 
 # Optional features
 animated:             false
