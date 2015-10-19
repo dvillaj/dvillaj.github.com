@@ -3,7 +3,7 @@ layout:     post
 title:      Visualizing distributions of data 
 date:       2015-09-15 11:21:29
 summary:    Plotting Distributions 
-categories: plotting jupyter 
+categories: plotting python 
 minutes:    15
 ---
 
