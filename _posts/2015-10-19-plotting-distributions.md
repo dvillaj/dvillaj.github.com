@@ -1,14 +1,11 @@
 ---
 layout:     post
-title:      Plotting Distributions 
+title:      Visualizing distributions of data 
 date:       2015-09-15 11:21:29
-summary:    Plotting Distributions Demo
+summary:    Plotting Distributions 
 categories: plotting jupyter 
 minutes:    15
 ---
-
-
-# Visualizing distributions of data
 
 This notebook demonstrates different approaches to graphically representing distributions of data, specifically focusing on the tools provided by the [seaborn](https://github.com/mwaskom/seaborn) package.
 
