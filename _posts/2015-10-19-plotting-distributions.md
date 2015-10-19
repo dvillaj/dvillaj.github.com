@@ -44,7 +44,7 @@ plt.hist(data);
 ```
 
 
-![png](https://github.com/dvillaj/dvillaj.github.com/blob/master/_posts/plotting_distributions_files/plotting_distributions_7_0.png)
+![png](https://raw.githubusercontent.com/dvillaj/dvillaj.github.com/master/_posts/plotting_distributions_files/plotting_distributions_7_0.png)
 
 
 By default, `hist` separates the data into 10 bins of equal widths and plots the number of observations in each bin. Thus, the main parameter is the number of bins, which we can change.
@@ -57,7 +57,7 @@ plt.hist(data, 6, color=sns.desaturate("indianred", .75));
 ```
 
 
-![png](https://github.com/dvillaj/dvillaj.github.com/blob/master/_posts/plotting_distributions_files/plotting_distributions_9_0.png)
+![png](https://raw.githubusercontent.com/dvillaj/dvillaj.github.com/master/_posts/plotting_distributions_files/plotting_distributions_9_0.png)
 
 
 The `normed` argument can also be useful if you want to compare two distributions that do not have the same number of observations. Note also that `bins` can be a sequence of where each bin starts.
