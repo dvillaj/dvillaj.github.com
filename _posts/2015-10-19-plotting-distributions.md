@@ -10,12 +10,12 @@ minutes:    15
 This notebook demonstrates different approaches to graphically representing distributions of data, specifically focusing on the tools provided by the [seaborn](https://github.com/mwaskom/seaborn) package.
 
 
-<pre><code class="python">
+{% highlight python %}
 %matplotlib inline
-</code></pre>
+{% endhighlight %}
 
 
-<pre><code class="python">
+{% highlight python %}
 import numpy as np
 from numpy.random import randn
 import pandas as pd
@@ -23,7 +23,7 @@ from scipy import stats
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
-</code></pre>
+{% endhighlight %}
 
 
 ```python
