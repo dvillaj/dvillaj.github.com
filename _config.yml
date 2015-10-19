@@ -1,11 +1,11 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Explorando - Un blog de Daniel Villanueva
+email:       dvillaj@gmail.com	
+author:      Daniel Villanueva
+description: "Explorador intrepido y eterno aprendiz"
 baseurl:     ""
 url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
+date_format: "%Y-%b-%-d"
 
 # Google services
 google_analytics:
@@ -15,7 +15,7 @@ google_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -23,12 +23,12 @@ ajaxify_contact_form: false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username: dvillaj
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: dvillaj
 google_plus_id:
-linkedin_username:
+linkedin_username: dvillaj
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -36,13 +36,13 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: 
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
