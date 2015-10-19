@@ -4,8 +4,8 @@ email:       dvillaj@gmail.com
 author:      Daniel Villanueva
 description: "Explorador intrepido y eterno aprendiz"
 baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%Y-%b-%-d"
+url:         "https://dvillaj.github.io"
+date_format: "%-d-%b-%Y"
 
 # Google services
 google_analytics:
@@ -36,7 +36,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: 
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false

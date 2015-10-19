@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Apache Spark en 10 minutos 
-date:       2014-06-08 11:21:29
+date:       2015-09-15 11:21:29
 summary:    Prueba Apache Spark mediante de una máquina virtual en 10 minutos.
 categories: jekyll pixyll
 ---
