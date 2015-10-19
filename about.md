@@ -1,19 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: Daniel Villanueva Jiménez
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+![png](/images/cropped-IMG_20150718_085320630.jpg)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Soy un profesional con más de 20 años de experiencia en el mundo TI en una gran variedad de proyectos, tecnologías y clientes.
 
-Thanks to the following:
+He ido creciendo desde un perfil técnico hacia un perfil de gestión. En este momento me encuentro entre los dos. Mi posición ideal es aquella en donde se necesiten habilidades funcionales, dotes de comunicación y capacidad técnica.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Últimamente he descubierto en la formación un nuevo mundo, que me posibilita transmitir mis conocimientos y abrir puertas a otras personas.
