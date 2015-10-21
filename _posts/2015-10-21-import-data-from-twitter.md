@@ -8,8 +8,6 @@ permalink:  /Import_Data_From_Twitter_Python/
 minutes:    10
 ---
 
-# Importing data from Twitter with python and tweepy 
-
 <img src="/images/import-data-from-twitter/tweepy.png" alt="Twitter logo" style="width: 800px;" align="left"/>
 
 [Twitter](https://twitter.com) provides an API that lets you download data from this social network. To do this we will use python and the library [tweepy](https://github.com/tweepy/tweepy).
