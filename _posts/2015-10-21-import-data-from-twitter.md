@@ -101,13 +101,6 @@ print table
 {% endhighlight %}
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-
-
 | User|Fecha|Texto |
 | :----|----|:------------|
 | retweetjava | 2015-10-21 04:00:19 | RT @MusicHackFest: #GoGettersNetwork #CodeTalk  Apache Hadoop and NoSQL as Analy |
