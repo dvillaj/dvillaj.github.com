@@ -20,10 +20,10 @@ After registering our application, Twitter will give us the keys that we need to
 
 
 {% highlight python %}
-consumer_key = 'hRNtRgjzGq3wq3mt3fbuUkQ2c'
-consumer_secret = 'yBbXnvNRpm92wvblpG9xhUMFF7w9sgxLfQT8k15Fs3k1RN4pnQ'
-access_token_key = '12391902-qHO3gUBIvKuv7DjajXBmdm2SyZH8vgmR3jcpLVnnM'
-access_token_secret = '9ViwfNW5FhOLhahaf4qimDLXfYuqDtGzJ1MmAQM0gN3LK'
+consumer_key = 'hRNtRgjzGq4wq3mt3fbuUkQ2c'
+consumer_secret = 'yBbXnvNRpm93wvblpG9xhUMFF7w9sgxLfQT8k15Fs3k1RN4pnQ'
+access_token_key = '12391902-qHOsgUBIvKuv7DjajXBmdm3SyZH8vgmR3jcpLVnnM'
+access_token_secret = '9ViwfNW5FhOLhagaf4qfmDLXfY6qDtGzJ1MmAQM0gN3LK'
 {% endhighlight %}
 
 The next step is to import the library and login in twitter.
@@ -99,9 +99,9 @@ for tweet in search_results[0:10]:
 print table
 {% endhighlight %}
 
-+-----------------+---------------------+----------------------------------------------------------------------------------+
+---------------
 | User        |        Fecha    | Texto                                                                        |
-+-----------------+---------------------+----------------------------------------------------------------------------------+
+-------------
 | retweetjava | 2015-10-21 04:00:19 | RT @MusicHackFest: #GoGettersNetwork #CodeTalk  Apache Hadoop and NoSQL as Analy |
 | NeuvooPhpCA | 2015-10-21 04:00:11 | CyberCoders is hiring a #Senior #Backend Developer - Ruby, Python, PHP, Agile, S |
 | GujaratiGuy789  | 2015-10-21 03:57:05 | RT @SoftwareJokes: 3 database admins walked into a NoSQL bar. A little while lat |
@@ -112,7 +112,7 @@ print table
 | bph         | 2015-10-21 03:19:39 | RT @couchbase: The 3 mega-trends that define businesses leading the digital econ |
 | VVagias     | 2015-10-21 03:13:36 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
 | retweetjava | 2015-10-21 03:13:35 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
-+-----------------+---------------------+----------------------------------------------------------------------------------+
+----------------
 
 
 ## Retrieving a user's timeline
