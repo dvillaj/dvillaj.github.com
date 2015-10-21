@@ -8,8 +8,9 @@ permalink:  /Import_Data_From_Twitter_Python/
 minutes:    10
 ---
 
-<img src="/images/import-data-from-twitter/tweepy.png" alt="Twitter logo" style="width: 800px;" align="left"/>
-<p/>
+![png](/images/import-data-from-twitter/tweepy.png)
+
+
 [Twitter](https://twitter.com) provides an API that lets you download data from this social network. To do this we will use python and the library [tweepy](https://github.com/tweepy/tweepy).
 
 The aim is to retrieve tweets related with the word 'NoSQL' and store them in a file for later analysis.
@@ -99,18 +100,18 @@ for tweet in search_results[0:10]:
 print table
 {% endhighlight %}
 
-| User|Fecha| Texto|
+|User|Fecha|Texto|
 --------------------
-| retweetjava | 2015-10-21 04:00:19 | RT @MusicHackFest: #GoGettersNetwork #CodeTalk  Apache Hadoop and NoSQL as Analy |
-| NeuvooPhpCA | 2015-10-21 04:00:11 | CyberCoders is hiring a #Senior #Backend Developer - Ruby, Python, PHP, Agile, S |
-| GujaratiGuy789  | 2015-10-21 03:57:05 | RT @SoftwareJokes: 3 database admins walked into a NoSQL bar. A little while lat |
-| astosyk     | 2015-10-21 03:53:11 | RT @couchbase: Get rapid ramp-up on #NoSQL application development with lessons  |
-| tjmickol    | 2015-10-21 03:40:36 | Listening to Sweet Home Wundermude by Spill &amp; Freunde on #kexp #galvanize #z |
-| MooglieTwitimon | 2015-10-21 03:38:26 | Couchbase CEO on rise of NoSQL - https://t.co/9Zeif7Afw4 https://t.co/yglu7h3WA0 |
-| MooglieTwitimon | 2015-10-21 03:38:24 | Couchbase CEO on rise of NoSQL - https://t.co/9Zeif7Afw4 https://t.co/yglu7h3WA0 |
-| bph         | 2015-10-21 03:19:39 | RT @couchbase: The 3 mega-trends that define businesses leading the digital econ |
-| VVagias     | 2015-10-21 03:13:36 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
-| retweetjava | 2015-10-21 03:13:35 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
+|retweetjava | 2015-10-21 04:00:19 | RT @MusicHackFest: #GoGettersNetwork #CodeTalk  Apache Hadoop and NoSQL as Analy |
+|NeuvooPhpCA | 2015-10-21 04:00:11 | CyberCoders is hiring a #Senior #Backend Developer - Ruby, Python, PHP, Agile, S |
+|GujaratiGuy789  | 2015-10-21 03:57:05 | RT @SoftwareJokes: 3 database admins walked into a NoSQL bar. A little while lat |
+|astosyk     | 2015-10-21 03:53:11 | RT @couchbase: Get rapid ramp-up on #NoSQL application development with lessons  |
+|tjmickol    | 2015-10-21 03:40:36 | Listening to Sweet Home Wundermude by Spill &amp; Freunde on #kexp #galvanize #z |
+|MooglieTwitimon | 2015-10-21 03:38:26 | Couchbase CEO on rise of NoSQL - https://t.co/9Zeif7Afw4 https://t.co/yglu7h3WA0 |
+|MooglieTwitimon | 2015-10-21 03:38:24 | Couchbase CEO on rise of NoSQL - https://t.co/9Zeif7Afw4 https://t.co/yglu7h3WA0 |
+|bph         | 2015-10-21 03:19:39 | RT @couchbase: The 3 mega-trends that define businesses leading the digital econ |
+|VVagias     | 2015-10-21 03:13:36 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
+|retweetjava | 2015-10-21 03:13:35 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
 
 
 ## Retrieving a user's timeline
