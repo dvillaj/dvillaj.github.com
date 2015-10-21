@@ -8,8 +8,8 @@ permalink:  /Import_Data_From_Twitter_Python/
 minutes:    10
 ---
 
-<img src="/images/import-data-from-twitter/tweepy.png" alt="Twitter logo" style="width: 800px;" align="left"/><br/>
-
+<img src="/images/import-data-from-twitter/tweepy.png" alt="Twitter logo" style="width: 800px;" align="left"/>
+<p/>
 [Twitter](https://twitter.com) provides an API that lets you download data from this social network. To do this we will use python and the library [tweepy](https://github.com/tweepy/tweepy).
 
 The aim is to retrieve tweets related with the word 'NoSQL' and store them in a file for later analysis.
@@ -99,7 +99,6 @@ for tweet in search_results[0:10]:
 print table
 {% endhighlight %}
 
---------------------
 | User|Fecha| Texto|
 --------------------
 | retweetjava | 2015-10-21 04:00:19 | RT @MusicHackFest: #GoGettersNetwork #CodeTalk  Apache Hadoop and NoSQL as Analy |
@@ -112,7 +111,6 @@ print table
 | bph         | 2015-10-21 03:19:39 | RT @couchbase: The 3 mega-trends that define businesses leading the digital econ |
 | VVagias     | 2015-10-21 03:13:36 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
 | retweetjava | 2015-10-21 03:13:35 | RT @geneolot: It's jut great Tuesday evening,  Bambini Dahlonega,  Georgia #BigD |
-----------------
 
 
 ## Retrieving a user's timeline
