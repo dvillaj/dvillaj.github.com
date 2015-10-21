@@ -11,7 +11,7 @@ minutes:    10
 ![png](/images/import-data-from-twitter/tweepy.png)
 
 
-[Twitter](https://twitter.com) provides an API that lets you download data from this social network. To do this we will use python and the library [tweepy](https://github.com/tweepy/tweepy).
+[Twitter](https://twitter.com) provides an API that lets you download data from this social network. To do this we will use python and the [tweepy](https://github.com/tweepy/tweepy) library.
 
 The aim is to retrieve tweets related with the word 'NoSQL' and store them in a file for later analysis.
 
