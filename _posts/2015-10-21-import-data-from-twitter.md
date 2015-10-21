@@ -100,9 +100,9 @@ for tweet in search_results[0:10]:
 print table
 {% endhighlight %}
 
----------------
-| User        |        Fecha    | Texto                                                                        |
--------------
+--------------------
+| User|Fecha| Texto|
+--------------------
 | retweetjava | 2015-10-21 04:00:19 | RT @MusicHackFest: #GoGettersNetwork #CodeTalk  Apache Hadoop and NoSQL as Analy |
 | NeuvooPhpCA | 2015-10-21 04:00:11 | CyberCoders is hiring a #Senior #Backend Developer - Ruby, Python, PHP, Agile, S |
 | GujaratiGuy789  | 2015-10-21 03:57:05 | RT @SoftwareJokes: 3 database admins walked into a NoSQL bar. A little while lat |
