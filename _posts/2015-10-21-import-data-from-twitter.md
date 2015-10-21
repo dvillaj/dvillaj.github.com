@@ -9,6 +9,7 @@ minutes:    10
 ---
 
 <img src="/images/import-data-from-twitter/tweepy.png" alt="Twitter logo" style="width: 800px;" align="left"/>
+\s\s
 
 [Twitter](https://twitter.com) provides an API that lets you download data from this social network. To do this we will use python and the library [tweepy](https://github.com/tweepy/tweepy).
 
