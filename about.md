@@ -4,7 +4,7 @@ title: Daniel Villanueva Jiménez
 permalink: /about/
 ---
 
-![png](/images/cropped-IMG_20150718_085320630.jpg)
+![png](/images/me.jpg)
 
 Soy un profesional con más de 20 años de experiencia en el mundo TI en una gran variedad de proyectos, tecnologías y clientes.
 
