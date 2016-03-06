@@ -7,8 +7,6 @@ categories: Data Analisys
 permalink:  /empresas-orientadas-a-datos/
 minutes:    10
 ---
-## Empresas orientadas a datos
-
 ¿Qué significa exactamente que una empresa esté orientada a datos?
 
 ![png](/images/empresas-orientadas-a-datos/imagen_1.jpg)
