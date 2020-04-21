@@ -8,10 +8,6 @@ permalink:  /pandas-and-covid-19/
 minutes:    12
 ---
 
-
-
-# Pandas and Covid-19
-
 This notebook is an example of data analysis and manipulation with **Pandas** and has beed created in [Google Colab](https://colab.research.google.com)
 
 Enjoy it!
@@ -611,7 +607,7 @@ pd.concat((first, last), axis = 0)
 
 Ups!!! The column names don't match :-(
 
-#Loading the data into Pandas  and cleaning it
+# Loading the data into Pandas  and cleaning it
 
 
 ```python
