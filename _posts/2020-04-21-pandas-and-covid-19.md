@@ -607,7 +607,7 @@ pd.concat((first, last), axis = 0)
 
 Ups!!! The column names don't match :-(
 
-# Loading the data into Pandas  and cleaning it
+## Loading the data into Pandas and cleaning it
 
 
 ```python
@@ -921,7 +921,7 @@ data.head()
 
 
 
-# Daily Cases
+## Daily Cases
 I am going to enrich the data by creating new columns with the daily cases.  
 
 First I create new columns with the cases from the previous day
